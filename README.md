@@ -26,7 +26,7 @@ The project retrieves all the device and feature templates from vManage test ins
 
 ## Screenshot
 
-![alt text](https://github.com/gve-sw/Viptela_Template_Migration-master/blob/master/viptela_template_migration.png)
+![alt text](https://github.com/Abhijith-R/Viptela_Template_Migration-master/blob/master/viptela_template_migration.png)
 
 
 ## API Reference/Documentation:
