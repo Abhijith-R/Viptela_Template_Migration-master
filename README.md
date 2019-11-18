@@ -21,7 +21,7 @@ The project retrieves all the device and feature templates from vManage test ins
 * Import the code into a text editor like pycharm or Atom
 * Install the required dependencies using requirements.txt ```pip install -r requirements.txt```
 * Open controller.py file and make necessary changes as mentioned in the comment in the file
-* After necessary changes are made to the code, execute controller.py file on the editor or on the terminal (```python controller.py```)
+* After necessary changes are made to the code, execute controller.py file on the editor or on the terminal
 
 
 ## Screenshot
